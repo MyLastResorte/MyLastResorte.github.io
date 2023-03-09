@@ -1,0 +1,50 @@
+.iconhome{
+text-decoration: none;
+align-items: center;
+align-content: center;
+font-size: 30px;
+font-family: 'Tilt Warp', cursive;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+.links{
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    color: white;
+}
+#navtit{
+    font-size: 30px;
+    font-family: 'Tilt Warp', cursive;
+}
+#titulo{
+    font-family: 'Tilt Warp', cursive;
+    margin-top: 20px;
+}
+.subtitulo{
+    font-family: 'Courier New', Courier, monospace;
+}
+#image{
+width:  200px;
+height: 330px;
+}
+.izquierda{
+    padding-left: 120px;
+    padding-right: 120px;
+    display: flex;
+    justify-content: space-around;
+}
+.list{
+    margin: 0;
+    padding: 0 0 0 0;
+}
+.god{
+    padding-top: 40px;
+}
+.godsito{
+    padding-bottom: 40px;
+}
+.links_new{
+    margin-left: 3px;
+    margin-bottom: 6px;
+}
